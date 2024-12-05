@@ -47,17 +47,17 @@ footer-links:
   flickr:
   github: hjhsudo
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
+  instagram: hjhsudo
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: HJHWhomYouLoved
-  youtube: # channel/<your_long_string> or user/<user-name>
+  twitter: hjhsudo
+  youtube: hjhsudo # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © Han Junhui & The Group of Shanghainese Dict. Online 2024
+footer-text: © HJHSudo & The Group of Shanghainese Dict. Online 2024
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
