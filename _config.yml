@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: 上海话在线辞典
+name: 上海話在綫辭典
 
 # Short bio or description (displayed in the header)
 description: Shanghainese Dictionary Online
@@ -26,7 +26,7 @@ navigation:
     url: /functions
   - name: 拼音
     url: /pinyin
-  - name: 关于
+  - name: 關於
     url: /about
 #  - name: Archive
 #    url: /archive
